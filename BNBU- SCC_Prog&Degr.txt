@@ -1,0 +1,98 @@
+===============================================================================
+                 BNBU – School of Culture and Creativity (SCC)
+===============================================================================
+
+SCC (School of Culture and Creativity)
+|
++-- Departments (Undergraduate Programmes)
+|   |
+|   +-- DCCD (Dept. of Culture, Creativity and Design)
+|   |   +-- CCM   (Culture, Creativity & Management)
+|   |   +-- THEM  (Tourism, Hospitality & Event Management)
+|   |
+|   +-- DFTNM (Dept. of Film, Television & New Media)
+|   |   +-- CTV   (Cinema and Television)
+|   |
+|   +-- DMUS (Dept. of Music)
+|   |   +-- MUS   (Music, independent admission)
+|   |
+|   +-- Creative Media Cluster (JC admission category, SCC home)
+|       +-- AIM   (Animation & Interactive Media)
+|       +-- GD    (Game Design)
+|       +-- MAD   (Media Arts & Design)
+|
++-- SCC + SAI Collaborative Cluster (New CM+N Track, 2025 Cohort Onwards)
+|   |
+|   +-- CM+N (Computational Media + N)
+|       +-- CM+AIM   (Computational Media + Animation & Interactive Media)
+|       +-- CM+GD    (Computational Media + Game Design)
+|       +-- CM+MAD   (Computational Media + Media Arts & Design)
+|
++-- Taught Postgraduate (TPg) Programmes
+|   +-- MAFTNM (MA in Film, Television & New Media)
+|   +-- MAIMS  (MA in Interactive Media Studies)
+|
++-- Admission Pathways
+    +-- JC (Journalism & Communication) : AIM, GD, MAD, CTV
+    +-- BA (Business & Administration)  : CCM, THEM
+    +-- Independent                     : MUS
+
+===============================================================================
+Notes:
+* Regular UG programmes belong to SCC departments (DCCD, DFTNM, DMUS).
+* AIM, GD, MAD exist in two forms:
+    - Regular SCC programmes (JC admission).
+    - CM+N special track (SCC+SAI, small intake, AI/Computational foundation).
+* Postgraduate programmes (MAFTNM, MAIMS) are SCC-managed, cross-departmental.
+===============================================================================
+
+
+
+===============================================================================
+                 BNBU – School of Culture and Creativity (SCC)
+===============================================================================
+
+SCC (School of Culture and Creativity)
+|
++-- Departments (Undergraduate Programmes)
+|   |
+|   +-- DCCD (Dept. of Culture, Creativity and Design)
+|   |   +-- CCM   – BBA (Hons) in Culture, Creativity & Management
+|   |   +-- THEM  – BBA (Hons) in Tourism, Hospitality & Event Management
+|   |
+|   +-- DFTNM (Dept. of Film, Television & New Media)
+|   |   +-- CTV   – BA (Hons) in Cinema and Television
+|   |
+|   +-- DMUS (Dept. of Music)
+|   |   +-- MUS   – BA (Hons) in Music (independent admission)
+|   |
+|   +-- Creative Media Cluster (JC admission category, SCC home)
+|       +-- AIM   – BA (Hons) in Animation & Interactive Media
+|       +-- GD    – BA (Hons) in Game Design
+|       +-- MAD   – BA (Hons) in Media Arts & Design
+|
++-- SCC + SAI Collaborative Cluster (New CM+N Track, 2025 Cohort Onwards)
+|   |
+|   +-- CM+N (Computational Media + N, BASc Hons degrees)
+|       +-- CM+AIM  – BASc (Hons) in Computational Media + AIM
+|       +-- CM+GD   – BASc (Hons) in Computational Media + GD
+|       +-- CM+MAD  – BASc (Hons) in Computational Media + MAD
+|
++-- Taught Postgraduate (TPg) Programmes
+|   +-- MAFTNM – MA in Communication (Film, Television & New Media)
+|   +-- MAIMS  – MA in Communication (Interactive Media Studies)
+|
++-- Admission Pathways
+    +-- JC (Journalism & Communication) : AIM, GD, MAD, CTV
+    +-- BA (Business & Administration)  : CCM, THEM
+    +-- Independent                     : MUS
+
+===============================================================================
+Notes:
+* BA (Hons) – AIM, GD, MAD, CTV, MUS
+* BBA (Hons) – CCM, THEM
+* BASc (Hons) – CM+AIM, CM+GD, CM+MAD (new SCC+SAI track)
+* MA (TPg) – MAFTNM, MAIMS
+===============================================================================
+
+
