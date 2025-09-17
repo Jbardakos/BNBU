@@ -1,0 +1,112 @@
+===============================================================================
+                          Acronym Map by Context
+===============================================================================
+
+Academic Units / Programmes
+-------------------------------------------------------------------------------
+   AIM     – Animation and Interactive Media
+   CCM     – Culture, Creativity and Management
+   CTV     – Cinema and Television
+   DCCD    – Dept. of Culture, Creativity and Design
+   DFTNM   – Dept. of Film, Television & New Media
+   DMUS    – Dept. of Music
+   GD      – Game Design
+   MAD     – Media Arts and Design
+   MAFTNM  – MA (Film, Television & New Media)
+   MAIMS   – MA (Interactive Media Studies)
+   MUS     – Music (independent admission)
+   THEM    – Tourism, Hospitality & Event Management
+   CM+AIM  – Computational Media + AIM (new track, SCC+SAI)
+   CM+GD   – Computational Media + GD (new track, SCC+SAI)
+   CM+MAD  – Computational Media + MAD (new track, SCC+SAI)
+
+Institutions / Offices
+-------------------------------------------------------------------------------
+   BNBU    – Beijing Normal Univ–HK Baptist Univ UIC
+   BNU     – Beijing Normal University
+   HKBU    – Hong Kong Baptist University
+   SAI     – School of Artificial Intelligence & Liberal Arts
+   SCC     – School of Culture and Creativity
+   CTL     – Centre for Teaching and Learning
+   RDKTO   – Research Development & Knowledge Transfer Office
+   AR      – Academic Registry
+   HR      – Human Resources Office
+   SAO     – Student Affairs Office
+   PGCC    – Personal Growth & Counselling Centre
+   IDO     – International Development Office
+   ECC     – Entrepreneurship Cooperation Centre
+   GS      – Graduate School
+   AO      – Admissions Office
+   CDO     – Career Development Office
+
+Quality Assurance & Review
+-------------------------------------------------------------------------------
+   ACP     – Academic Consultation Panel
+   ADRI    – Approach, Deployment, Results, Improvement cycle
+   APQAR   – Annual Programme QA Report
+   CFQ     – Course Feedback Questionnaire
+   CRA     – Course-level Review and Assessment
+   IR      – Institutional Review
+   QAC     – Quality Assurance Committee
+   PMC     – Programme Management Committee
+   DAC     – Dept Academic Committee (revision protocol)
+   UAC     – Undergraduate Admissions Committee
+   TPRC    – Taught Postgraduate Regulations Committee
+   SED     – Self-Evaluation Document (for IR)
+   TLE     – Teaching and Learning Evaluation (survey)
+
+Teaching & Learning Frameworks
+-------------------------------------------------------------------------------
+   OBTL    – Outcome-Based Teaching & Learning
+   ILO     – Intended Learning Outcome
+   CILO    – Course Intended Learning Outcome
+   PILO    – Programme Intended Learning Outcome
+   GILO    – Graduate Intended Learning Outcome
+   GA      – Graduate Attributes
+   GE      – General Education (BNBU core curriculum)
+
+Student Support
+-------------------------------------------------------------------------------
+   MCP     – Mentor Caring Programme
+   AAP     – Academic Advisors Programme (with MCP)
+   PER     – Programme Entrance Requirements
+   GER     – General Entrance Requirements
+   IaH     – Internationalisation at Home
+   CDO     – Career Development Office (career support)
+
+Admission Categories
+-------------------------------------------------------------------------------
+   JC      – Journalism & Communication (broad-based admission)
+   BA      – Business & Administration (broad-based admission)
+   Independent – Direct entry for MUS
+
+Strategic / External Context
+-------------------------------------------------------------------------------
+   GBA     – Greater Bay Area
+   MOE     – Ministry of Education (China)
+   EOI     – Expression of Interest (new programme proposal)
+   CM+N    – Computational Media + N (cluster: AIM, GD, MAD)
+   KPIs    – Key Performance Indicators
+   AI      – Artificial Intelligence (context: SAI & new courses)
+   XR      – Extended Reality (linked to GD electives)
+
+Course Categories (BNBU / SCC)
+-------------------------------------------------------------------------------
+   UCC     – University Core Courses (required for all BNBU students)
+   GE      – General Education (cross-disciplinary, Levels 1–3)
+   CCR     – Common Core Required (cluster-wide compulsory courses)
+   CCE     – Common Core Elective (cluster-wide elective courses)
+   MR      – Major Required (programme compulsory courses)
+   ME      – Major Elective (programme elective courses)
+   FE      – Free Elective (open-choice or compulsory in CM+N)
+
+===============================================================================
+   Academic units     (Programmes/Departments)
+   Institutions/offices (Administrative/Support)
+   Quality assurance  (Review/Protocol/Committees)
+   Teaching frameworks (OBTL → PILO → CILO → Assessment)
+   Student support    (MCP, AAP, advising)
+   Admission          (JC, BA, Independent)
+   Strategic context  (GBA, MOE, CM+N, AI, XR, KPIs)
+   Course categories  (UCC, GE, CCR, CCE, MR, ME, FE)
+===============================================================================
